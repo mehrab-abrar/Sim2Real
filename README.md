@@ -9,3 +9,14 @@ Interface (API) to develop and test Reinforcement Learning (RL) algorithms. We d
 * Create a minimalistic, low-cost, and open-source quadruped robot that avoids obstacles and navigates in a grid using the learned policies without relying on sensors or additional real-world training.
 
 A demonstration video is available on [YouTube](https://www.youtube.com/watch?v=dDKQaN_zsvU).
+
+The image below shows the 7 steps the quadruped robot follows to avoid the obstacles in a grid and reach the destination without using any localization and mapping sensors. 
+
+![FullSim2Real (1)-min](https://github.com/user-attachments/assets/83f456c4-22ef-4eb2-9a21-f4fd2ba6acb1)
+
+
+
+
+
+
+
