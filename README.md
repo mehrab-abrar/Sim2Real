@@ -7,3 +7,5 @@ Interface (API) to develop and test Reinforcement Learning (RL) algorithms. We d
 
 * Develop and implement a straightforward pipeline that transfers policies learned in the Frozen Lake environment to a physical robot.
 * Create a minimalistic, low-cost, and open-source quadruped robot that avoids obstacles and navigates in a grid using the learned policies without relying on sensors or additional real-world training.
+
+A demonstration video is available on [YouTube](https://www.youtube.com/watch?v=dDKQaN_zsvU).
