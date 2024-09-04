@@ -5,5 +5,5 @@ This repository is associated with the paper titled "An Open-source Sim2Real App
 This work focus on navigating a quadruped robot in a real-world grid-like environment inspired by the Gymnasium Frozen Lake — a highly user-friendly and free Application Programming
 Interface (API) to develop and test Reinforcement Learning (RL) algorithms. We detail the development of a pipeline to transfer motion policies learned in the Frozen Lake simulation to a physical quadruped robot. The work aims to:
 
-• Develop and implement a straightforward pipeline that transfers policies learned in the Frozen Lake environment to a physical robot.
-• Create a minimalistic, low-cost, and open-source quadruped robot that avoids obstacles and navigates in a grid using the learned policies without relying on sensors or additional real-world training.
+* Develop and implement a straightforward pipeline that transfers policies learned in the Frozen Lake environment to a physical robot.
+* Create a minimalistic, low-cost, and open-source quadruped robot that avoids obstacles and navigates in a grid using the learned policies without relying on sensors or additional real-world training.
